@@ -1,2 +1,6 @@
 Questions:
 1. What does "spatial capabilities" indicate for a SQL database?
+2. What is "Azure Synapse analytics" pipeline? 
+  Azure Synapse Analytics allows you to transform data, links data to Power BI, and performs near real-time log analysis. 
+3. What is "Azure Data Factory" ? What all does it do?
+
