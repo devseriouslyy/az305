@@ -1,6 +1,16 @@
 Questions:
 1. What does "spatial capabilities" indicate for a SQL database?
+  A spatial database is a database that is specially designed to store, manage, and analyze data related to geographic locations and shapes. 
+  In simple terms, it’s a database that understands maps and locations.
+  Unlike a regular database that stores text and numbers, a spatial database can store geometries and understand how they relate to each other in space.
+  All 3 SQL options in Azure have "spatial capabilities" (i.e. Azure SQL DB, SQL managed instance, SQL on a VM). Difference is in management, compatibility, and control level.
+  Azure SQL Database supports SQL Server spatial capabilities and minimizes general administrative overhead. SQL Managed Instance has higher administrative overhead than Azure SQL Database & "SQL on AVM" has highest admin overhead.
+
 2. What is "Azure Synapse analytics" pipeline? 
   Azure Synapse Analytics allows you to transform data, links data to Power BI, and performs near real-time log analysis. 
+
 3. What is "Azure Data Factory" ? What all does it do?
+
+4. Difference between - "MS Entra connect" & "MS Entra Application proxy" ?
+
 
